@@ -33,12 +33,12 @@ const ContactRight = () => {
     } else {
 
 
-      emailjs.send('service_qfiwrni', 'template_plxy5v2', {
+      emailjs.send('service_kgi17hb', 'template_1butmwa', {
         name: username,
         email: email,
         subject: subject,
         message: message,
-      }, 'dGoMGlgOQcyLsT8IZ')
+      }, 'nOiv-IC7uj09UbK48')
       .then((response) => {
         alert('Email sent successfully!');
       })
