@@ -36,7 +36,7 @@ const Projects = () => {
   <div className="flex  flex-wrap gap-5 items-center justify-center w-full my-auto">
    
       {/* <div className="grid grid-cols-4 mx-auto w-11/12  xl:grid-cols-5 lg:grid-cols-4 gap-x-2 md:grid-cols-3 sm:grid-cols-2 "> */}
-        <ProjectCard title="ROOM RENTAL SYSTEM" des="it is complete project developed using PHP and html,css,js"  />
+        <ProjectCard title="Smart Life Tracker" des="It is a project in flutter featuring the record of expenses, notes and todo."  />
         <ProjectCard title="MICROSERVICES & JUNIT" des="created the microservice and testing using JUnit "  />
         <ProjectCard title="BLOG" des="this project contains the backend logic and REST API built using spring boot "  />
         <ProjectCard title="PROJECT FOUR" des="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus gravida condimentum purus, vel ullamcorper lectus lacinia in."  />
